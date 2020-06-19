@@ -1,0 +1,4 @@
+name: TreeFeller
+version: ${project.version}
+main: com.oakleyplugins.treefeller.TreeFeller
+api-version: 1.13
